@@ -134,10 +134,12 @@ def checkUsername(targetUsername):
 
 if __name__ == '__main__':
     print("""
-     -----------------------
-     |    Turbo insta !    |
-     | [ + ] To Claim user |
-     |    @PersonalHost    |  
+ ╔════════════════════════════════════════╗
+ ║  Turbo instagram                       ║
+ ║ How Start? : user + pass               ║
+ ║  combo users.txt                       ║                ║
+ ║ programmer  : @PersonalHost            ║
+ ╚════════════════════════════════════════╝
 """)
     print("=" * 60)
     print(">User: {}".format(username))
